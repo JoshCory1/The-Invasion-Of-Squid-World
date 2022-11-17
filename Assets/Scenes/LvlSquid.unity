@@ -1559,8 +1559,6 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 5350144762302866428, guid: 52e5a3ea9d02262468cd01fb7fbb7d74, type: 2}
     value: {fileID: 1131032597}
-  - key: {fileID: -2682284437528448809, guid: 52e5a3ea9d02262468cd01fb7fbb7d74, type: 2}
-    value: {fileID: 0}
   m_ExposedReferences:
     m_References:
     - b53a36825bac5f440b1981d9282240f8: {fileID: 768882652}
@@ -4057,7 +4055,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8742879106584733743, guid: c5e24e070b755cc4a8aa70b30346360c, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8742879106584733743, guid: c5e24e070b755cc4a8aa70b30346360c, type: 3}
       propertyPath: antialiasingMode
